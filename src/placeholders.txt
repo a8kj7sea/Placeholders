@@ -1,2 +1,0 @@
-%author%=a8kj
-%msg%=src/HelloWorld
