@@ -24,5 +24,16 @@ int main() {
 }
 
 ```
-![image](https://github.com/a8kj7sea/Placeholders/assets/104179839/c78ea5ab-b641-4c80-af67-3c0ee7e317f1)
+
+## Output 
+
+```
+before : 
+Simple Example by %author%
+after : 
+Simple Example by a8kj
+
+Press any key to close program !
+```
+
 
